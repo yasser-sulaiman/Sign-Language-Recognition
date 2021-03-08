@@ -1,5 +1,5 @@
 # Sign-Language-Recognition
 
-## Data set
+## Data set sample
 
 ![Test Data](./images/test.PNG)

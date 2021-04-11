@@ -19,10 +19,10 @@ The [Sign Language Gesture Images Dataset](https://www.kaggle.com/ahmedkhanak199
 
 ## Results
 Traing and Validation loss
-![Test Data](./images/loss.PNG)
+![Test Data](https://github.com/yasser-sulaiman/Sign-Language-Recognition/blob/main/images/loss.png)
 
 Traing and Validation Accuracy
-![Test Data](./images/acc.PNG)
+![Test Data](https://github.com/yasser-sulaiman/Sign-Language-Recognition/blob/main/images/acc.png)
 
 Real-Time Results
 ![Test Data](./images/results.PNG)

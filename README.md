@@ -30,3 +30,5 @@ Traing and Validation Accuracy
 Real-Time Results
 
 ![Test Data](./images/results.PNG)
+
+Project demo is avaolable [here](https://www.youtube.com/watch?v=6VBk9Me0aqM)

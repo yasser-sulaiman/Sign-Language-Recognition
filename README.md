@@ -7,7 +7,10 @@ Sign Language is the language of communication that is used by the deaf people l
 
 
 ## Dataset
-The [Sign Language Gesture Images Dataset](https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset) has been used for training our model. The original dataset contained 37 different categories each with 1,500 images. The dataset consists of numbers 0 through 9 and all 26 alphabets in addition to the space sign. in order to lower the computation cost of the training process, I did not train the model for the numbers but only for the characters. for J and Z characters I eliminate them from the dataset since recognition of these characters requires motion detection. moreover, I added the 'Nothing' category to the dataset since there was no such a class in the original one. finally, I end up with 37500 images belong to 25 different classes.
+The [Sign Language Gesture Images Dataset](https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset) has been used for training our model. The original dataset contained 37 different categories each with 1,500 images. The dataset consists of numbers 0 through 9 and all 26 alphabets in addition to the space sign. in order to lower the computation cost of the training process, I did not train the model for the numbers but only for the characters. for J and Z characters I eliminate them from the dataset since recognition of these characters requires motion detection. moreover, I added the 'Nothing' category to the dataset since there was no such a class in the original one. finally, I end up with 37500 images belong to 25 different classes.  
+## The dataset folder should be as in the following image:  
+## dataset folder structure
+![Test Data](./images/dataset_structure.PNG) 
 
 ## Samples from Test set
 ![Test Data](./images/test.PNG)
